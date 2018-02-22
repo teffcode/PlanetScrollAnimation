@@ -4,7 +4,7 @@
 
 ## ☄️ You can:
 
-* Clone this respository -> `git clone` _`repository-url`_
+* Clone this respository -> `git clone`
 * Install dependencies -> `npm install`
 * Run project -> `npm start`
 * See `https://localhost:3000` in your browser
