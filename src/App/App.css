@@ -1,7 +1,15 @@
 body {
-  background: linear-gradient(#37bed3, #e7babd);
+  background-color: pink;
+  background-repeat: no-repeat;
+  /* background-size: 1000px; */
+  /* background-position: right; */
+  /* background: linear-gradient(#37bed3, #e7babd); */
+  background-image: url(../assets/fondo2.jpg);
 }
 
 .app {
+  width: 500px;
   height: 1000px;
+  /* overflow: scroll; */
 }
+
